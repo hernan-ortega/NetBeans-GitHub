@@ -1,0 +1,38 @@
+
+div{
+    background-color: #454040;
+    padding: 20px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;	
+}
+h1{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px #F41111 solid;
+}
+.izq{
+    float: left;
+}	
+.der{
+    float: right;
+}	
+p{
+    clear: both;
+}
+table{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, tr, th, td  {
+    border-collapse: collapse;
+    border: 1px solid cornflowerblue;
+}
+table tr th{
+    background-color: captiontext;
+}
+table td{
+    text-align: center;
+}
